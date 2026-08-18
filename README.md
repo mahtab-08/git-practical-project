@@ -3,4 +3,8 @@
 Project setup completed.
 Adding details
 ## Usage Instructions
+<<<<<<< HEAD
 Conflict line from main
+=======
+Conflict line from branch
+>>>>>>> feature/refactor
