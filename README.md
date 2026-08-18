@@ -8,3 +8,4 @@ Conflict line from main
 =======
 Conflict line from branch
 >>>>>>> feature/refactor
+Wrong text
