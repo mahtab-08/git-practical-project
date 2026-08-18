@@ -2,3 +2,4 @@
 ## How to run
 Project setup completed.
 Adding details
+## Usage Instructions
